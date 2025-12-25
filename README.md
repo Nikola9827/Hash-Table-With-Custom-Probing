@@ -1,6 +1,6 @@
 # Hash Table with Custom Probing
 
-A custom hash table implementation in C++ using split-sequence linear probing. This project demonstrates manual memory management, dynamic data handling, and performance measurement.
+A custom hash table implementation in C++ using split-sequence linear probing, focused on collision handling, manual memory management, and performance analysis.
 
 - Implemented dynamic insertion, deletion, and search operations with a custom probing strategy for efficient collision handling.
 - Managed memory manually, including dynamic allocation and proper deletion of records to prevent memory leaks and ensure safe usage.
